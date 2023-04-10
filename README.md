@@ -1,6 +1,8 @@
 # ryrender
 A light-weight WebGL 1.0 library that allows users to easily insert 3D models into a WebGL context.
 
+<video title="Preview of RyRender in Action" src="[https://user-images.githubusercontent.com/128189530/230948536-93679a8b-ce3d-4047-9d8e-85a6f2c63d2b.mp4" controls="controls" style="max-width: 750px;"></video>
+
 ## Current Goals
 ### Most Prioritized Goals
     * Add dynamic and static lights
