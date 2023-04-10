@@ -1,0 +1,10 @@
+{
+    "name": "ryrender",
+    "version": "0.9",
+    "description": "WebGL 1.0 Graphics Library.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ]
+}

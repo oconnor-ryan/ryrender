@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES2021",
+        "module": "ES2020",
+        "outDir": "./"
+    },
+    "exclude": [
+        "dist/**/*"
+    ]
+}
